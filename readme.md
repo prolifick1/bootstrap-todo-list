@@ -1,4 +1,4 @@
-# Simple Todo Page
+# Simple To-Do Page
 We now have all the basic tools of the front end at our disposal. Let's put them to work by creating a To-Do List application.
 
 ## Steps:
